@@ -1,2 +1,7 @@
 # flask-market-application
-Flask-based authentication and market application project
+A Flask-based web application with user authentication and item purchasing features.
+Technologies Used:
+- Flask
+- SQLAlchemy
+- SQLite
+- HTML/CSS
